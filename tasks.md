@@ -10,3 +10,5 @@
 - [ ] Make and host a website with RSS
 - [ ] Intro music
 - [ ] Think of a rough strategy (e.g. value prop, distribution, etc.)
+- [ ] Write a script for drafting tweets
+- [ ] Write a script for making shorts
