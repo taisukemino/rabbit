@@ -1,8 +1,6 @@
 # Tasks
 
 - [ ] Buy a mic
-  - [Shure SM7B](https://web.archive.org/web/20190411150954/http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone)
-  - [Logitech Yeti](https://www.logitechg.com/en-us/shop/p/yeti-premium-usb-microphone)
 - [ ] Buy a headphone
 - [ ] Choose an audio editing software
 - [ ] Design a cover photo
