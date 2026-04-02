@@ -11,18 +11,3 @@
 
 - Every month
 
-## Software
-
-- Audio editing tool for clipping, noise cancelling, inserting music, etc.
-- Podcast hosting tool
-- Timestamping tool
-- Transcription tool
-
-## Recording Environment
-
-- Find a silent place and time
-
-## Hardware
-
-- Mic
-- Headphone
