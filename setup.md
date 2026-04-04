@@ -3,7 +3,7 @@
 ## Hardware
 
 - [ ] Mic
-- [ ] Headphone
+- [ ] Monitoring
 
 ## Software
 
