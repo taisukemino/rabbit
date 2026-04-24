@@ -9,4 +9,4 @@
 
 ## Frequency
 
-- Every month
+- Every two months
