@@ -6,4 +6,4 @@
 - Apply magic audio.
 - Generate chapters using co-creator, translate them, and review them.
 - Generate a title, description and links with LLM based on a transcript.
-- Create an episode markdown file in the GitHub repo with the same format: title, description, chapters with timestamps, and links.
+- Create an shownotes file in the GitHub repo with the same format: title, description, chapters with timestamps, and links.
